@@ -1,4 +1,5 @@
-This archive contains all the relevant code for the paper 'Uncertainty Quantification in Binary Classification via Latent Quantile Estimation'
+This archive contains all the relevant code for the paper 'Estimation and Applications of Quantiles in Binary Classification' on arXive
+https://arxiv.org/abs/2102.06575
 
 The main notebook, called BQR.ipynb has a walkthrough of all the topics presented in the main paper for a single dataset.
 Code for individual components can be found in the Individual_Experiments folder. Some of the topics, such as robustness and interpretibility have not been described in the main work but merely mentioned in the conclusion.
@@ -15,3 +16,5 @@ The features selected were: modelMag u’, ’modelMag g’, ’modelMag r’, �
 For IMDB, please download the 50K review version, create a new folder under datasets named IMDB, and place the Train and Test csvs in that folder
 
 Refer to the dataset_params file for details on how to use the datasets in the notebooks 
+
+Author(s): Anuj Tambwekar, Anirudh Maiya
